@@ -1,7 +1,7 @@
 # AI
 # AI/ML Roadmap with Progress Tracking
 
-## [ ] Phase 1: Build Strong Foundations (2-3 months)
+## Phase 1: Build Strong Foundations (2-3 months)
 
 ### 1. Python Programming for AI/ML
 - [ ] Learn Python basics and syntax.
