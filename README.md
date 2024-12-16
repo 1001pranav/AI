@@ -3,7 +3,7 @@
 ## Phase 1: Build Strong Foundations (2-3 months)
 
 ### 1. Python Programming for AI/ML
-- [ ] Learn Python basics and syntax.
+- [x] Learn Python basics and syntax.
 - [ ] Master NumPy for numerical computations.
 - [ ] Practice data manipulation with Pandas.
 - [ ] Learn data visualization with Matplotlib and Seaborn.
