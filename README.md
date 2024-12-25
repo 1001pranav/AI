@@ -4,9 +4,70 @@
 
 ### 1. Python Programming for AI/ML
 - [x] Learn Python basics and syntax.
+  - [x] **Basic Syntax and Concepts**  
+    - [x] Variables, data types, and operators.  
+    - [x] Input/output operations (`print()`, `input()`).  
+    - [x] Conditional statements (`if`, `elif`, `else`).  
+    - [x] Loops (`for`, `while`) and iterables.  
+  - [x] **Functions and Modules**  
+    - [x] Defining and calling functions.  
+    - [x] Function arguments and return statements.  
+    - [x] Importing and using modules (`math`, `random`).  
+  - [x] **Data Structures**  
+    - [x] Lists, tuples, sets, and dictionaries.  
+    - [x] List comprehensions and dictionary comprehensions.  
+    - [x] String operations.  
+  - [x] **Error Handling**  
+    - [x] Try-except blocks.  
+    - [x] Raising and handling exceptions.     
 - [ ] Master NumPy for numerical computations.
+  - [ ] **Introduction to NumPy**  
+    - [ ] Install NumPy and understand its importance.  
+    - [ ] Understand `ndarray` (NumPy array) and how it differs from Python lists.  
+  - [ ] **NumPy Basics**  
+    - [ ] Array creation (`np.array`, `np.zeros`, `np.ones`, `np.arange`, `np.linspace`).  
+    - [ ] Indexing, slicing, and reshaping arrays.  
+    - [ ] Basic mathematical operations (element-wise addition, subtraction, multiplication, division).  
+  - [ ] **Advanced NumPy**  
+    - [ ] Broadcasting and vectorized operations.  
+    - [ ] Working with random numbers (`np.random`).  
+    - [ ] Aggregations and statistics (mean, median, standard deviation, sum).  
+  - [ ] **Practice Problems**  
+    - [ ] Matrix operations and solving linear equations.  
+    - [ ] Use Kaggle datasets to manipulate and analyze numerical data.     
 - [ ] Practice data manipulation with Pandas.
+  - [ ] **Introduction to Pandas**  
+    - [ ] Install Pandas and understand its role in data manipulation.  
+    - [ ] Understand `Series` and `DataFrame`.  
+  - [ ] **Data Loading and Exploration**  
+    - [ ] Load datasets from CSV, Excel, JSON, or databases.  
+    - [ ] Explore data using `head()`, `tail()`, `info()`, `describe()`.  
+    - [ ] Data selection and filtering (`loc[]`, `iloc[]`).  
+  - [ ] **Data Cleaning**  
+    - [ ] Handle missing data (`fillna()`, `dropna()`).  
+    - [ ] Rename columns, handle duplicates, and type conversions.  
+  - [ ] **Data Transformation**  
+    - [ ] Apply functions across rows and columns (`apply()`, `map()`).  
+    - [ ] Merge, join, and concatenate datasets.  
+    - [ ] Grouping and aggregation (`groupby()`).  
+  - [ ] **Practice Problems**  
+    - [ ] Perform operations on real-world datasets like the Titanic or Iris dataset.  
+    - [ ] Analyze and summarize data trends.
 - [ ] Learn data visualization with Matplotlib and Seaborn.
+  - [ ] **Introduction to Matplotlib**  
+    - [ ] Understand the structure of a plot (`figure`, `axes`, `subplot`).  
+    - [ ] Create line plots, bar charts, and scatter plots.  
+    - [ ] Customize plots (titles, labels, legends, colors).  
+  - [ ] **Introduction to Seaborn**  
+    - [ ] Understand Seaborn's role in statistical data visualization.  
+    - [ ] Create heatmaps, boxplots, violin plots, and pair plots.  
+  - [ ] **Advanced Visualization**  
+    - [ ] Customize color palettes and themes.  
+    - [ ] Annotate plots and manage figure size.  
+    - [ ] Use advanced plots like joint plots and regression plots.  
+  - [ ] **Practice Problems**  
+    - [ ] Visualize insights from real-world datasets (Kaggle or UCI Machine Learning Repository).  
+    - [ ] Combine Matplotlib and Seaborn for customized plots.
 - [ ] Practice on real-world datasets from Kaggle/OpenML.
 
 **Resources**:
