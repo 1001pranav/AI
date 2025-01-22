@@ -21,9 +21,9 @@
     - [x] Try-except blocks.  
     - [x] Raising and handling exceptions.     
 - [ ] Master NumPy for numerical computations.
-  - [ ] **Introduction to NumPy**  
-    - [ ] Install NumPy and understand its importance.  
-    - [ ] Understand `ndarray` (NumPy array) and how it differs from Python lists.  
+  - [x] **Introduction to NumPy**  
+    - [x] Install NumPy and understand its importance.  
+    - [x] Understand `ndarray` (NumPy array) and how it differs from Python lists.  
   - [ ] **NumPy Basics**  
     - [ ] Array creation (`np.array`, `np.zeros`, `np.ones`, `np.arange`, `np.linspace`).  
     - [ ] Indexing, slicing, and reshaping arrays.  
