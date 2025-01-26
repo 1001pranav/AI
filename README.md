@@ -24,14 +24,14 @@
   - [x] **Introduction to NumPy**  
     - [x] Install NumPy and understand its importance.  
     - [x] Understand `ndarray` (NumPy array) and how it differs from Python lists.  
-  - [ ] **NumPy Basics**  
-    - [ ] Array creation (`np.array`, `np.zeros`, `np.ones`, `np.arange`, `np.linspace`).  
-    - [ ] Indexing, slicing, and reshaping arrays.  
-    - [ ] Basic mathematical operations (element-wise addition, subtraction, multiplication, division).  
+  - [x] **NumPy Basics**  
+    - [x] Array creation (`np.array`, `np.zeros`, `np.ones`, `np.arange`, `np.linspace`).  
+    - [x] Indexing, slicing, and reshaping arrays.  
+    - [x] Basic mathematical operations (element-wise addition, subtraction, multiplication, division).  
   - [ ] **Advanced NumPy**  
     - [ ] Broadcasting and vectorized operations.  
-    - [ ] Working with random numbers (`np.random`).  
-    - [ ] Aggregations and statistics (mean, median, standard deviation, sum).  
+    - [x] Working with random numbers (`np.random`).  
+    - [x] Aggregations and statistics (mean, median, standard deviation, sum).  
   - [ ] **Practice Problems**  
     - [ ] Matrix operations and solving linear equations.  
     - [ ] Use Kaggle datasets to manipulate and analyze numerical data.     
